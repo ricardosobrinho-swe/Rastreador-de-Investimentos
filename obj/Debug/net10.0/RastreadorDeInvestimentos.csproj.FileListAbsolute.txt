@@ -1,0 +1,14 @@
+/home/rs/RastreadorDeInvestimentos/RastreadorDeInvestimentos/bin/Debug/net10.0/RastreadorDeInvestimentos
+/home/rs/RastreadorDeInvestimentos/RastreadorDeInvestimentos/bin/Debug/net10.0/RastreadorDeInvestimentos.deps.json
+/home/rs/RastreadorDeInvestimentos/RastreadorDeInvestimentos/bin/Debug/net10.0/RastreadorDeInvestimentos.runtimeconfig.json
+/home/rs/RastreadorDeInvestimentos/RastreadorDeInvestimentos/bin/Debug/net10.0/RastreadorDeInvestimentos.dll
+/home/rs/RastreadorDeInvestimentos/RastreadorDeInvestimentos/bin/Debug/net10.0/RastreadorDeInvestimentos.pdb
+/home/rs/RastreadorDeInvestimentos/RastreadorDeInvestimentos/obj/Debug/net10.0/RastreadorDeInvestimentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/rs/RastreadorDeInvestimentos/RastreadorDeInvestimentos/obj/Debug/net10.0/RastreadorDeInvestimentos.AssemblyInfoInputs.cache
+/home/rs/RastreadorDeInvestimentos/RastreadorDeInvestimentos/obj/Debug/net10.0/RastreadorDeInvestimentos.AssemblyInfo.cs
+/home/rs/RastreadorDeInvestimentos/RastreadorDeInvestimentos/obj/Debug/net10.0/RastreadorDeInvestimentos.csproj.CoreCompileInputs.cache
+/home/rs/RastreadorDeInvestimentos/RastreadorDeInvestimentos/obj/Debug/net10.0/RastreadorDeInvestimentos.dll
+/home/rs/RastreadorDeInvestimentos/RastreadorDeInvestimentos/obj/Debug/net10.0/refint/RastreadorDeInvestimentos.dll
+/home/rs/RastreadorDeInvestimentos/RastreadorDeInvestimentos/obj/Debug/net10.0/RastreadorDeInvestimentos.pdb
+/home/rs/RastreadorDeInvestimentos/RastreadorDeInvestimentos/obj/Debug/net10.0/RastreadorDeInvestimentos.genruntimeconfig.cache
+/home/rs/RastreadorDeInvestimentos/RastreadorDeInvestimentos/obj/Debug/net10.0/ref/RastreadorDeInvestimentos.dll
